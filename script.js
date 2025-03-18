@@ -28,4 +28,4 @@ btn.addEventListener("click", () => {
     number++
 })
 
-console.log("yoo")
+console.log("yooo")
